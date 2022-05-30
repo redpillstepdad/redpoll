@@ -1,0 +1,5006 @@
+[
+ {
+   "{": "promotionRoutes",
+   "FIELD2": " {"
+ },
+ {
+   "{": "SUN",
+   "FIELD2": "SEC"
+ },
+ {
+   "{": "MAC",
+   "FIELD2": "B10"
+ },
+ {
+   "{": "COL",
+   "FIELD2": "ACC"
+ },
+ {
+   "{": "CUSA",
+   "FIELD2": "B12"
+ },
+ {
+   "{": "MWC",
+   "FIELD2": "PAC"
+ },
+ {
+   "{": "AAC",
+   "FIELD2": "GWC"
+ },
+ {
+   "{": "  },",
+   "FIELD2": ""
+ },
+ {
+   "{": "baseYear",
+   "FIELD2": " 2014,"
+ },
+ {
+   "{": "relegationRoutes",
+   "FIELD2": " {"
+ },
+ {
+   "{": "SEC",
+   "FIELD2": "SUN"
+ },
+ {
+   "{": "B10",
+   "FIELD2": "MAC"
+ },
+ {
+   "{": "ACC",
+   "FIELD2": "COL"
+ },
+ {
+   "{": "B12",
+   "FIELD2": "CUSA"
+ },
+ {
+   "{": "PAC",
+   "FIELD2": "MWC"
+ },
+ {
+   "{": "AAC",
+   "FIELD2": "GWC"
+ },
+ {
+   "{": "  },",
+   "FIELD2": ""
+ },
+ {
+   "{": "conferences",
+   "FIELD2": " ["
+ },
+ {
+   "{": "    {",
+   "FIELD2": ""
+ },
+ {
+   "{": "confFullName",
+   "FIELD2": "Southeastern"
+ },
+ {
+   "{": "confPrestige",
+   "FIELD2": "95"
+ },
+ {
+   "{": "confName",
+   "FIELD2": "SEC"
+ },
+ {
+   "{": "confTeams",
+   "FIELD2": " ["
+ },
+ {
+   "{": "        {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "Alabama"
+ },
+ {
+   "{": "state",
+   "FIELD2": "Alabama"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "ALA"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"AUB\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {"
+ },
+ {
+   "{": "AUB",
+   "FIELD2": "Iron Bowl"
+ },
+ {
+   "{": "          },",
+   "FIELD2": ""
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "95"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#9E1B32"
+ },
+ {
+   "{": "        },",
+   "FIELD2": ""
+ },
+ {
+   "{": "        {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "Arkansas"
+ },
+ {
+   "{": "state",
+   "FIELD2": "Arkansas"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "ARK"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"UTK\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {},"
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "85"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#9D2235"
+ },
+ {
+   "{": "        },",
+   "FIELD2": ""
+ },
+ {
+   "{": "        {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "Auburn"
+ },
+ {
+   "{": "state",
+   "FIELD2": "Alabama"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "AUB"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"ALA\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {"
+ },
+ {
+   "{": "ALA",
+   "FIELD2": "Iron Bowl"
+ },
+ {
+   "{": "            },",
+   "FIELD2": ""
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "90"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#0C2340"
+ },
+ {
+   "{": "        },",
+   "FIELD2": ""
+ },
+ {
+   "{": "        {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "Florida"
+ },
+ {
+   "{": "state",
+   "FIELD2": "Florida"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "FLA"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"UGA\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {"
+ },
+ {
+   "{": "UGA",
+   "FIELD2": "World's Largest Cocktail Party"
+ },
+ {
+   "{": "            },",
+   "FIELD2": ""
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "90"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#0021A5"
+ },
+ {
+   "{": "        },",
+   "FIELD2": ""
+ },
+ {
+   "{": "        {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "Georgia"
+ },
+ {
+   "{": "state",
+   "FIELD2": "Georgia"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "UGA"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"FLA\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {"
+ },
+ {
+   "{": "FLA",
+   "FIELD2": "World's Largest Cocktail Party"
+ },
+ {
+   "{": "            },",
+   "FIELD2": ""
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "90"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#BA0C2F"
+ },
+ {
+   "{": "        },",
+   "FIELD2": ""
+ },
+ {
+   "{": "        {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "Louisiana State"
+ },
+ {
+   "{": "state",
+   "FIELD2": "Louisiana"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "LSU"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"TAMU\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {"
+ },
+ {
+   "{": "TAMU",
+   "FIELD2": "Sabine Showdown"
+ },
+ {
+   "{": "            },",
+   "FIELD2": ""
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "90"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#461D7C"
+ },
+ {
+   "{": "        },",
+   "FIELD2": ""
+ },
+ {
+   "{": "        {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "Oklahoma"
+ },
+ {
+   "{": "state",
+   "FIELD2": "Oklahoma"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "OKLA"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"UTA\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {"
+ },
+ {
+   "{": "UTA",
+   "FIELD2": "Red River Shootout"
+ },
+ {
+   "{": "            },",
+   "FIELD2": ""
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "90"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#841617"
+ },
+ {
+   "{": "        },",
+   "FIELD2": ""
+ },
+ {
+   "{": "        {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "Tennessee"
+ },
+ {
+   "{": "state",
+   "FIELD2": "Tennessee"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "UTK"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"ARK\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {},"
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "90"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#FF8200"
+ },
+ {
+   "{": "        },",
+   "FIELD2": ""
+ },
+ {
+   "{": "        {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "Texas"
+ },
+ {
+   "{": "state",
+   "FIELD2": "Texas"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "UTA"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"OKLA\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {"
+ },
+ {
+   "{": "OKLA",
+   "FIELD2": "Red River Shootout"
+ },
+ {
+   "{": "            },",
+   "FIELD2": ""
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "95"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#BF5700"
+ },
+ {
+   "{": "        },",
+   "FIELD2": ""
+ },
+ {
+   "{": "        {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "Texas A&M"
+ },
+ {
+   "{": "state",
+   "FIELD2": "Texas"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "TAMU"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"LSU\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {"
+ },
+ {
+   "{": "LSU",
+   "FIELD2": "Sabine Showdown"
+ },
+ {
+   "{": "            },",
+   "FIELD2": ""
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "85"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#500000"
+ },
+ {
+   "{": "        }",
+   "FIELD2": ""
+ },
+ {
+   "{": "      ]",
+   "FIELD2": ""
+ },
+ {
+   "{": "    },",
+   "FIELD2": ""
+ },
+ {
+   "{": "    {",
+   "FIELD2": ""
+ },
+ {
+   "{": "confFullName",
+   "FIELD2": "Big 10"
+ },
+ {
+   "{": "confPrestige",
+   "FIELD2": "95"
+ },
+ {
+   "{": "confName",
+   "FIELD2": "B10"
+ },
+ {
+   "{": "confTeams",
+   "FIELD2": " ["
+ },
+ {
+   "{": "            {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "Illinois"
+ },
+ {
+   "{": "state",
+   "FIELD2": "Illinois"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "ILLI"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"NU\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {},"
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "85"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#13294B"
+ },
+ {
+   "{": "          },  ",
+   "FIELD2": ""
+ },
+ {
+   "{": "          {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "Indiana"
+ },
+ {
+   "{": "state",
+   "FIELD2": "Indiana"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "INDY"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"PUR\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {"
+ },
+ {
+   "{": "PUR",
+   "FIELD2": "The Bucket Game"
+ },
+ {
+   "{": "                },",
+   "FIELD2": ""
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "80"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#990000"
+ },
+ {
+   "{": "              },",
+   "FIELD2": ""
+ },
+ {
+   "{": "              {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "Michigan"
+ },
+ {
+   "{": "state",
+   "FIELD2": "Michigan"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "UM"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"OSU\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {"
+ },
+ {
+   "{": "OSU",
+   "FIELD2": "The Game"
+ },
+ {
+   "{": "                  },",
+   "FIELD2": ""
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "95"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#00274C"
+ },
+ {
+   "{": "              },",
+   "FIELD2": ""
+ },
+ {
+   "{": "              {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "Michigan State"
+ },
+ {
+   "{": "state",
+   "FIELD2": "Michigan"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "MSU"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"PSU\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {},"
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "90"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#18453B"
+ },
+ {
+   "{": "              },",
+   "FIELD2": ""
+ },
+ {
+   "{": "              {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "Minnesota"
+ },
+ {
+   "{": "state",
+   "FIELD2": "Minnesota"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "MINN"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"UWM\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {"
+ },
+ {
+   "{": "UWM",
+   "FIELD2": "The Axe Game"
+ },
+ {
+   "{": "                  },",
+   "FIELD2": ""
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "80"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#7A0019"
+ },
+ {
+   "{": "              },",
+   "FIELD2": ""
+ },
+ {
+   "{": "              {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "Northwestern"
+ },
+ {
+   "{": "state",
+   "FIELD2": "Illinois"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "NU"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"ILLI\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {},"
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "75"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#4E2A84"
+ },
+ {
+   "{": "              },",
+   "FIELD2": ""
+ },
+ {
+   "{": "              {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "Ohio State"
+ },
+ {
+   "{": "state",
+   "FIELD2": "Ohio"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "OSU"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"UM\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {"
+ },
+ {
+   "{": "UM",
+   "FIELD2": "The Game"
+ },
+ {
+   "{": "                  },",
+   "FIELD2": ""
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "95"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#BB0000"
+ },
+ {
+   "{": "              },",
+   "FIELD2": ""
+ },
+ {
+   "{": "              {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "Penn State"
+ },
+ {
+   "{": "state",
+   "FIELD2": "Pennsylvania"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "PSU"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"MSU\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {},"
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "85"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#041E42"
+ },
+ {
+   "{": "              },",
+   "FIELD2": ""
+ },
+ {
+   "{": "              {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "Purdue"
+ },
+ {
+   "{": "state",
+   "FIELD2": "Indiana"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "PUR"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"INDY\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {"
+ },
+ {
+   "{": "INDY",
+   "FIELD2": "The Bucket Game"
+ },
+ {
+   "{": "                  },",
+   "FIELD2": ""
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "80"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#CEB888"
+ },
+ {
+   "{": "              },",
+   "FIELD2": ""
+ },
+ {
+   "{": "              {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "Wisconsin"
+ },
+ {
+   "{": "state",
+   "FIELD2": "Wisconsin"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "UWM"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"MINN\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {"
+ },
+ {
+   "{": "MINN",
+   "FIELD2": "The Axe Game"
+ },
+ {
+   "{": "                  },",
+   "FIELD2": ""
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "85"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#C5050C"
+ },
+ {
+   "{": "              }",
+   "FIELD2": ""
+ },
+ {
+   "{": "        ]",
+   "FIELD2": ""
+ },
+ {
+   "{": "    },",
+   "FIELD2": ""
+ },
+ {
+   "{": "    {",
+   "FIELD2": ""
+ },
+ {
+   "{": "confFullName",
+   "FIELD2": "Atlantic Coast"
+ },
+ {
+   "{": "confPrestige",
+   "FIELD2": "90"
+ },
+ {
+   "{": "confName",
+   "FIELD2": "ACC"
+ },
+ {
+   "{": "confTeams",
+   "FIELD2": " ["
+ },
+ {
+   "{": "            {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "Clemson"
+ },
+ {
+   "{": "state",
+   "FIELD2": "South Carolina"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "CLEM"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"GTU\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {},"
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "95"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#F56600"
+ },
+ {
+   "{": "              },",
+   "FIELD2": ""
+ },
+ {
+   "{": "              {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "Duke"
+ },
+ {
+   "{": "state",
+   "FIELD2": "North Carolina"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "DUKE"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"UNC\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {},"
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "80"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#003087"
+ },
+ {
+   "{": "              },",
+   "FIELD2": ""
+ },
+ {
+   "{": "              {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "Florida State"
+ },
+ {
+   "{": "state",
+   "FIELD2": "Florida"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "FSU"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"MIA\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {},"
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "85"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#782F40"
+ },
+ {
+   "{": "              },",
+   "FIELD2": ""
+ },
+ {
+   "{": "              {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "Georgia Tech"
+ },
+ {
+   "{": "state",
+   "FIELD2": "Georgia"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "GTU"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"CLEM\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {},"
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "80"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#B3A369"
+ },
+ {
+   "{": "              },",
+   "FIELD2": ""
+ },
+ {
+   "{": "              {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "Miami"
+ },
+ {
+   "{": "state",
+   "FIELD2": "Florida"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "MIA"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"FSU\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {},"
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "90"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#F47321"
+ },
+ {
+   "{": "              },",
+   "FIELD2": ""
+ },
+ {
+   "{": "              {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "North Carolina"
+ },
+ {
+   "{": "state",
+   "FIELD2": "North Carolina"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "UNC"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"DUKE\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {},"
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "80"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#7BAFD4"
+ },
+ {
+   "{": "              },",
+   "FIELD2": ""
+ },
+ {
+   "{": "              {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "North Carolina State"
+ },
+ {
+   "{": "state",
+   "FIELD2": "North Carolina"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "NCST"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"WFU\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {},"
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "80"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#CC0000"
+ },
+ {
+   "{": "              },",
+   "FIELD2": ""
+ },
+ {
+   "{": "              {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "Virginia"
+ },
+ {
+   "{": "state",
+   "FIELD2": "Virginia"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "UVA"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"VT\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {},"
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "85"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#232D4B"
+ },
+ {
+   "{": "              },",
+   "FIELD2": ""
+ },
+ {
+   "{": "              {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "Virginia Tech"
+ },
+ {
+   "{": "state",
+   "FIELD2": "Virginia"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "VT"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"UVA\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {},"
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "80"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#630031"
+ },
+ {
+   "{": "              },",
+   "FIELD2": ""
+ },
+ {
+   "{": "              {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "Wake Forest"
+ },
+ {
+   "{": "state",
+   "FIELD2": "North Carolina"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "WFU"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"NCST\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {},"
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "80"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#9E7E38"
+ },
+ {
+   "{": "              }",
+   "FIELD2": ""
+ },
+ {
+   "{": "        ]",
+   "FIELD2": ""
+ },
+ {
+   "{": "    },",
+   "FIELD2": ""
+ },
+ {
+   "{": "    {",
+   "FIELD2": ""
+ },
+ {
+   "{": "confFullName",
+   "FIELD2": "Big 12"
+ },
+ {
+   "{": "confPrestige",
+   "FIELD2": "90"
+ },
+ {
+   "{": "confName",
+   "FIELD2": "B12"
+ },
+ {
+   "{": "confTeams",
+   "FIELD2": " ["
+ },
+ {
+   "{": "            {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "Baylor"
+ },
+ {
+   "{": "state",
+   "FIELD2": "Texas"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "BAY"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"TCU\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {},"
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "85"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#154734"
+ },
+ {
+   "{": "              },",
+   "FIELD2": ""
+ },
+ {
+   "{": "              {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "Cincinnati"
+ },
+ {
+   "{": "state",
+   "FIELD2": "Ohio"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "UC"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"WVU\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {},"
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "85"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#E00122"
+ },
+ {
+   "{": "              },",
+   "FIELD2": ""
+ },
+ {
+   "{": "              {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "Houston"
+ },
+ {
+   "{": "state",
+   "FIELD2": "Texas"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "HOU"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"TTU\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {},"
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "80"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#C8102E"
+ },
+ {
+   "{": "              },",
+   "FIELD2": ""
+ },
+ {
+   "{": "              {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "Iowa State"
+ },
+ {
+   "{": "state",
+   "FIELD2": "Iowa"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "ISU"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"OKST\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {},"
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "85"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#C8102E"
+ },
+ {
+   "{": "              },",
+   "FIELD2": ""
+ },
+ {
+   "{": "              {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "Kansas"
+ },
+ {
+   "{": "state",
+   "FIELD2": "Kansas"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "UKAN"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"UKST\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {},"
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "80"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#0051BA"
+ },
+ {
+   "{": "              },",
+   "FIELD2": ""
+ },
+ {
+   "{": "              {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "Kansas State"
+ },
+ {
+   "{": "state",
+   "FIELD2": "Kansas"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "UKST"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"UKAN\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {},"
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "80"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#512888"
+ },
+ {
+   "{": "              },",
+   "FIELD2": ""
+ },
+ {
+   "{": "              {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "Oklahoma State"
+ },
+ {
+   "{": "state",
+   "FIELD2": "Oklahoma"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "OKST"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"ISU\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {},"
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "85"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#FF7300"
+ },
+ {
+   "{": "              },",
+   "FIELD2": ""
+ },
+ {
+   "{": "              {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "Texas Christian"
+ },
+ {
+   "{": "state",
+   "FIELD2": "Texas"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "TCU"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"BAY\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {},"
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "85"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#4D1979"
+ },
+ {
+   "{": "              },",
+   "FIELD2": ""
+ },
+ {
+   "{": "              {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "Texas Tech"
+ },
+ {
+   "{": "state",
+   "FIELD2": "Texas"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "TTU"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"HOU\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {},"
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "85"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#CC0000"
+ },
+ {
+   "{": "              },",
+   "FIELD2": ""
+ },
+ {
+   "{": "              {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "West Virginia"
+ },
+ {
+   "{": "state",
+   "FIELD2": "West Virginia"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "WVU"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"UC\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {},"
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "85"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#002855"
+ },
+ {
+   "{": "              }",
+   "FIELD2": ""
+ },
+ {
+   "{": "        ]",
+   "FIELD2": ""
+ },
+ {
+   "{": "    },",
+   "FIELD2": ""
+ },
+ {
+   "{": "    {",
+   "FIELD2": ""
+ },
+ {
+   "{": "confFullName",
+   "FIELD2": "Pacific Coast"
+ },
+ {
+   "{": "confPrestige",
+   "FIELD2": "85"
+ },
+ {
+   "{": "confName",
+   "FIELD2": "PAC"
+ },
+ {
+   "{": "confTeams",
+   "FIELD2": " ["
+ },
+ {
+   "{": "            {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "California"
+ },
+ {
+   "{": "state",
+   "FIELD2": "California"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "CAL"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"STAN\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {},"
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "80"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#003262"
+ },
+ {
+   "{": "              },",
+   "FIELD2": ""
+ },
+ {
+   "{": "              {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "Colorado"
+ },
+ {
+   "{": "state",
+   "FIELD2": "Colorado"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "COL"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"UTAH\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {},"
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "80"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#CFB87C"
+ },
+ {
+   "{": "              },",
+   "FIELD2": ""
+ },
+ {
+   "{": "              {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "Oregon"
+ },
+ {
+   "{": "state",
+   "FIELD2": "Oregon"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "ORE"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"ORSU\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {},"
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "90"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#154733"
+ },
+ {
+   "{": "              },",
+   "FIELD2": ""
+ },
+ {
+   "{": "              {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "Oregon State"
+ },
+ {
+   "{": "state",
+   "FIELD2": "Oregon"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "ORSU"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"ORE\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {},"
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "80"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#DC4405"
+ },
+ {
+   "{": "              },",
+   "FIELD2": ""
+ },
+ {
+   "{": "              {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "Stanford"
+ },
+ {
+   "{": "state",
+   "FIELD2": "California"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "STAN"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"CAL\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {},"
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "85"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#8C1515"
+ },
+ {
+   "{": "              },",
+   "FIELD2": ""
+ },
+ {
+   "{": "              {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "UC Los Angeles"
+ },
+ {
+   "{": "state",
+   "FIELD2": "California"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "UCLA"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"USC\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {},"
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "90"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#2D68C4"
+ },
+ {
+   "{": "              },",
+   "FIELD2": ""
+ },
+ {
+   "{": "              {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "Utah"
+ },
+ {
+   "{": "state",
+   "FIELD2": "Utah"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "UTAH"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"COL\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {},"
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "80"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#CC0000"
+ },
+ {
+   "{": "              },",
+   "FIELD2": ""
+ },
+ {
+   "{": "              {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "South California"
+ },
+ {
+   "{": "state",
+   "FIELD2": "California"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "USC"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"USCLA\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {},"
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "85"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#990000"
+ },
+ {
+   "{": "              },",
+   "FIELD2": ""
+ },
+ {
+   "{": "              {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "Washington"
+ },
+ {
+   "{": "state",
+   "FIELD2": "Washington"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "WAS"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"WSU\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {},"
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "80"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#4B2E83"
+ },
+ {
+   "{": "              },",
+   "FIELD2": ""
+ },
+ {
+   "{": "              {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "Washington State"
+ },
+ {
+   "{": "state",
+   "FIELD2": "Washington"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "WSU"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"WAS\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {},"
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "80"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#981E32"
+ },
+ {
+   "{": "              }",
+   "FIELD2": ""
+ },
+ {
+   "{": "        ]",
+   "FIELD2": ""
+ },
+ {
+   "{": "    },",
+   "FIELD2": ""
+ },
+ {
+   "{": "    {",
+   "FIELD2": ""
+ },
+ {
+   "{": "confFullName",
+   "FIELD2": "Great West"
+ },
+ {
+   "{": "confPrestige",
+   "FIELD2": "85"
+ },
+ {
+   "{": "confName",
+   "FIELD2": "GWC"
+ },
+ {
+   "{": "confTeams",
+   "FIELD2": " ["
+ },
+ {
+   "{": "            {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "Air Force"
+ },
+ {
+   "{": "state",
+   "FIELD2": "Colorado"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "AIRF"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"BYU\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {},"
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "75"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#003087"
+ },
+ {
+   "{": "              },",
+   "FIELD2": ""
+ },
+ {
+   "{": "              {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "Arizona"
+ },
+ {
+   "{": "state",
+   "FIELD2": "Arizona"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "AZ"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"ASU\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {},"
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "80"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#CC0033"
+ },
+ {
+   "{": "              },",
+   "FIELD2": ""
+ },
+ {
+   "{": "              {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "Arizona State"
+ },
+ {
+   "{": "state",
+   "FIELD2": "Arizona"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "ASU"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"AZ\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {},"
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "80"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#8C1D40"
+ },
+ {
+   "{": "              },",
+   "FIELD2": ""
+ },
+ {
+   "{": "              {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "Brigham Young"
+ },
+ {
+   "{": "state",
+   "FIELD2": "Utah"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "BYU"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"AIRF\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {},"
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "75"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#002E5D"
+ },
+ {
+   "{": "              },",
+   "FIELD2": ""
+ },
+ {
+   "{": "              {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "Iowa"
+ },
+ {
+   "{": "state",
+   "FIELD2": "Iowa"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "IOWA"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"UNL\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {},"
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "85"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#FFCD00"
+ },
+ {
+   "{": "              },",
+   "FIELD2": ""
+ },
+ {
+   "{": "              {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "Mississippi State"
+ },
+ {
+   "{": "state",
+   "FIELD2": "Mississippi"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "MISS"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"OLE\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {},"
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "80"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#660000"
+ },
+ {
+   "{": "              },",
+   "FIELD2": ""
+ },
+ {
+   "{": "              {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "Missouri"
+ },
+ {
+   "{": "state",
+   "FIELD2": "Missouri"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "MO"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"VAN\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {},"
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "80"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#000000"
+ },
+ {
+   "{": "              },",
+   "FIELD2": ""
+ },
+ {
+   "{": "              {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "Nebraska"
+ },
+ {
+   "{": "state",
+   "FIELD2": "Nebraska"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "UNL"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"IOWA\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {},"
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "85"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#E41C38"
+ },
+ {
+   "{": "              },",
+   "FIELD2": ""
+ },
+ {
+   "{": "              {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "Ole Miss"
+ },
+ {
+   "{": "state",
+   "FIELD2": "Mississippi"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "OLE"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"MISS\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {},"
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "85"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#CE1126"
+ },
+ {
+   "{": "              },",
+   "FIELD2": ""
+ },
+ {
+   "{": "              {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "Vanderbilt"
+ },
+ {
+   "{": "state",
+   "FIELD2": "Tennessee"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "VAN"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"MO\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {},"
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "75"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#866D4B"
+ },
+ {
+   "{": "              }",
+   "FIELD2": ""
+ },
+ {
+   "{": "        ]",
+   "FIELD2": ""
+ },
+ {
+   "{": "    },",
+   "FIELD2": ""
+ },
+ {
+   "{": "    {",
+   "FIELD2": ""
+ },
+ {
+   "{": "confFullName",
+   "FIELD2": "Sun Belt"
+ },
+ {
+   "{": "confPrestige",
+   "FIELD2": "70"
+ },
+ {
+   "{": "confName",
+   "FIELD2": "SUN"
+ },
+ {
+   "{": "confTeams",
+   "FIELD2": " ["
+ },
+ {
+   "{": "            {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "Appalachian State"
+ },
+ {
+   "{": "state",
+   "FIELD2": "North Carolina"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "APP"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"CCU\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {},"
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "75"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#222222"
+ },
+ {
+   "{": "              },",
+   "FIELD2": ""
+ },
+ {
+   "{": "              {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "Arkansas State"
+ },
+ {
+   "{": "state",
+   "FIELD2": "Arkansas"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "ARKS"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"USM\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {},"
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "65"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#CC092F"
+ },
+ {
+   "{": "              },",
+   "FIELD2": ""
+ },
+ {
+   "{": "              {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "Coastal Carolina"
+ },
+ {
+   "{": "state",
+   "FIELD2": "South Carolina"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "CCU"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"APP\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {},"
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "70"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#006F71"
+ },
+ {
+   "{": "              },",
+   "FIELD2": ""
+ },
+ {
+   "{": "              {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "Georgia Southern"
+ },
+ {
+   "{": "state",
+   "FIELD2": "Georgia"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "GSOU"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"GSU\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {},"
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "70"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#011E41"
+ },
+ {
+   "{": "              },",
+   "FIELD2": ""
+ },
+ {
+   "{": "              {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "Georgia State"
+ },
+ {
+   "{": "state",
+   "FIELD2": "Georgia"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "GSU"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"GSOU\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {},"
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "70"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#0039A6"
+ },
+ {
+   "{": "              },",
+   "FIELD2": ""
+ },
+ {
+   "{": "              {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "UL Lafayette"
+ },
+ {
+   "{": "state",
+   "FIELD2": "Louisiana"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "RAGE"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"ULM\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {},"
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "75"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#CE181E"
+ },
+ {
+   "{": "              },",
+   "FIELD2": ""
+ },
+ {
+   "{": "              {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "UL Monroe"
+ },
+ {
+   "{": "state",
+   "FIELD2": "Louisiana"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "ULM"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"RAGE\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {},"
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "70"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#840029"
+ },
+ {
+   "{": "              },",
+   "FIELD2": ""
+ },
+ {
+   "{": "              {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "South Alabama"
+ },
+ {
+   "{": "state",
+   "FIELD2": "Alabama"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "SAU"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"TROY\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {},"
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "70"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#00205B"
+ },
+ {
+   "{": "              },",
+   "FIELD2": ""
+ },
+ {
+   "{": "              {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "Southern Miss"
+ },
+ {
+   "{": "state",
+   "FIELD2": "Mississippi"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "USM"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"ARKS\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {},"
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "70"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#FFAB00"
+ },
+ {
+   "{": "              },",
+   "FIELD2": ""
+ },
+ {
+   "{": "              {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "Troy"
+ },
+ {
+   "{": "state",
+   "FIELD2": "Alabama"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "TROY"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"SAU\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {},"
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "70"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#8A2432"
+ },
+ {
+   "{": "              }",
+   "FIELD2": ""
+ },
+ {
+   "{": "        ]",
+   "FIELD2": ""
+ },
+ {
+   "{": "    },",
+   "FIELD2": ""
+ },
+ {
+   "{": "    {",
+   "FIELD2": ""
+ },
+ {
+   "{": "confFullName",
+   "FIELD2": "Mid American"
+ },
+ {
+   "{": "confPrestige",
+   "FIELD2": "65"
+ },
+ {
+   "{": "confName",
+   "FIELD2": "MAC"
+ },
+ {
+   "{": "confTeams",
+   "FIELD2": " ["
+ },
+ {
+   "{": "            {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "Akron"
+ },
+ {
+   "{": "state",
+   "FIELD2": "Ohio"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "AKR"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"KENT\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {},"
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "65"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#041E42"
+ },
+ {
+   "{": "              },",
+   "FIELD2": ""
+ },
+ {
+   "{": "              {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "Ball State"
+ },
+ {
+   "{": "state",
+   "FIELD2": "Indiana"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "BALL"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"CMU\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {},"
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "65"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#BA0C2F"
+ },
+ {
+   "{": "              },",
+   "FIELD2": ""
+ },
+ {
+   "{": "              {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "Bowling Green"
+ },
+ {
+   "{": "state",
+   "FIELD2": "Ohio"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "BGSU"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"TOL\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {},"
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "60"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#FE5000"
+ },
+ {
+   "{": "              },",
+   "FIELD2": ""
+ },
+ {
+   "{": "              {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "Central Michigan"
+ },
+ {
+   "{": "state",
+   "FIELD2": "Michigan"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "CMU"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"BALL\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {},"
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "65"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#6A0032"
+ },
+ {
+   "{": "              },",
+   "FIELD2": ""
+ },
+ {
+   "{": "              {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "Eastern Michigan"
+ },
+ {
+   "{": "state",
+   "FIELD2": "Michigan"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "EMU"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"WMU\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {},"
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "65"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#006633"
+ },
+ {
+   "{": "              },",
+   "FIELD2": ""
+ },
+ {
+   "{": "              {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "Kent State"
+ },
+ {
+   "{": "state",
+   "FIELD2": "Ohio"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "KENT"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"AKR\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {},"
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "65"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#002664"
+ },
+ {
+   "{": "              },",
+   "FIELD2": ""
+ },
+ {
+   "{": "              {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "Miami OH"
+ },
+ {
+   "{": "state",
+   "FIELD2": "Ohio"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "MIOH"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"OHIO\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {},"
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "60"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#B61E2E"
+ },
+ {
+   "{": "              },",
+   "FIELD2": ""
+ },
+ {
+   "{": "              {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "Ohio"
+ },
+ {
+   "{": "state",
+   "FIELD2": "Ohio"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "OHIO"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"MIOH\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {},"
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "65"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#00694E"
+ },
+ {
+   "{": "              },",
+   "FIELD2": ""
+ },
+ {
+   "{": "              {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "Toledo"
+ },
+ {
+   "{": "state",
+   "FIELD2": "Ohio"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "TOL"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"BGSU\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {},"
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "60"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#15397F"
+ },
+ {
+   "{": "              },",
+   "FIELD2": ""
+ },
+ {
+   "{": "              {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "Western Michigan"
+ },
+ {
+   "{": "state",
+   "FIELD2": "Michigan"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "WMU"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"EMU\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {},"
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "65"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#6C4023"
+ },
+ {
+   "{": "              }",
+   "FIELD2": ""
+ },
+ {
+   "{": "        ]",
+   "FIELD2": ""
+ },
+ {
+   "{": "    },",
+   "FIELD2": ""
+ },
+ {
+   "{": "    {",
+   "FIELD2": ""
+ },
+ {
+   "{": "confFullName",
+   "FIELD2": "Colonial"
+ },
+ {
+   "{": "confPrestige",
+   "FIELD2": "80"
+ },
+ {
+   "{": "confName",
+   "FIELD2": "COL"
+ },
+ {
+   "{": "confTeams",
+   "FIELD2": " ["
+ },
+ {
+   "{": "            {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "Army"
+ },
+ {
+   "{": "state",
+   "FIELD2": "New York"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "ARMY"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"NAVY\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {},"
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "70"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#D4BF91"
+ },
+ {
+   "{": "              },",
+   "FIELD2": ""
+ },
+ {
+   "{": "              {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "Boston College"
+ },
+ {
+   "{": "state",
+   "FIELD2": "Massachusetts"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "BC"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"MARY\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {},"
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "80"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#98002E"
+ },
+ {
+   "{": "              },",
+   "FIELD2": ""
+ },
+ {
+   "{": "              {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "Central Florida"
+ },
+ {
+   "{": "state",
+   "FIELD2": "Florida"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "UCF"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"SC\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {},"
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "80"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#BA9B37"
+ },
+ {
+   "{": "              },",
+   "FIELD2": ""
+ },
+ {
+   "{": "              {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "Kentucky"
+ },
+ {
+   "{": "state",
+   "FIELD2": "Kentucky"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "UK"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"LOU\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {},"
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "85"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#0033A0"
+ },
+ {
+   "{": "              },",
+   "FIELD2": ""
+ },
+ {
+   "{": "              {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "Louisville"
+ },
+ {
+   "{": "state",
+   "FIELD2": "Kentucky"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "LOU"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"UK\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {},"
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "70"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#AD0000"
+ },
+ {
+   "{": "              },",
+   "FIELD2": ""
+ },
+ {
+   "{": "              {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "Maryland"
+ },
+ {
+   "{": "state",
+   "FIELD2": "Maryland"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "MARY"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"BC\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {},"
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "80"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#E03A3E"
+ },
+ {
+   "{": "              },",
+   "FIELD2": ""
+ },
+ {
+   "{": "              {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "Navy"
+ },
+ {
+   "{": "state",
+   "FIELD2": "Maryland"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "NAVY"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"ARMY\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {},"
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "75"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#00205B"
+ },
+ {
+   "{": "              },",
+   "FIELD2": ""
+ },
+ {
+   "{": "              {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "Notre Dame"
+ },
+ {
+   "{": "state",
+   "FIELD2": "Indiana"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "ND"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"PITT\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {},"
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "90"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#0C2340"
+ },
+ {
+   "{": "              },",
+   "FIELD2": ""
+ },
+ {
+   "{": "              {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "Pittsburgh"
+ },
+ {
+   "{": "state",
+   "FIELD2": "Pennsylvania"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "PITT"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"ND\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {},"
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "80"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#003594"
+ },
+ {
+   "{": "              },",
+   "FIELD2": ""
+ },
+ {
+   "{": "              {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "South Carolina"
+ },
+ {
+   "{": "state",
+   "FIELD2": "South Carolina"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "SC"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"UCF\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {},"
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "80"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#73000A"
+ },
+ {
+   "{": "              }",
+   "FIELD2": ""
+ },
+ {
+   "{": "        ]",
+   "FIELD2": ""
+ },
+ {
+   "{": "    },",
+   "FIELD2": ""
+ },
+ {
+   "{": "    {",
+   "FIELD2": ""
+ },
+ {
+   "{": "confFullName",
+   "FIELD2": "Conference USA"
+ },
+ {
+   "{": "confPrestige",
+   "FIELD2": "65"
+ },
+ {
+   "{": "confName",
+   "FIELD2": "CUSA"
+ },
+ {
+   "{": "confTeams",
+   "FIELD2": " ["
+ },
+ {
+   "{": "            {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "Charlotte"
+ },
+ {
+   "{": "state",
+   "FIELD2": "North Carolina"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "UNCC"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"HERD\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {},"
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "65"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#046A38"
+ },
+ {
+   "{": "              },",
+   "FIELD2": ""
+ },
+ {
+   "{": "              {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "Florida Atlantic"
+ },
+ {
+   "{": "state",
+   "FIELD2": "Florida"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "FAU"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"FIU\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {},"
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "70"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#003366"
+ },
+ {
+   "{": "              },",
+   "FIELD2": ""
+ },
+ {
+   "{": "              {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "Florida International"
+ },
+ {
+   "{": "state",
+   "FIELD2": "Florida"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "FIU"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"FAU\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {},"
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "70"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#081E3F"
+ },
+ {
+   "{": "              },",
+   "FIELD2": ""
+ },
+ {
+   "{": "              {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "Liberty"
+ },
+ {
+   "{": "state",
+   "FIELD2": "Virginia"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "LIB"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"ODU\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {},"
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "75"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#002D62"
+ },
+ {
+   "{": "              },",
+   "FIELD2": ""
+ },
+ {
+   "{": "              {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "Louisiana Tech"
+ },
+ {
+   "{": "state",
+   "FIELD2": "Louisiana"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "LTEC"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"TSTU\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {},"
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "65"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#002F8B"
+ },
+ {
+   "{": "              },",
+   "FIELD2": ""
+ },
+ {
+   "{": "              {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "Marshall"
+ },
+ {
+   "{": "state",
+   "FIELD2": "West Virginia"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "HERD"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"UNCC\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {},"
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "75"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#00B140"
+ },
+ {
+   "{": "              },",
+   "FIELD2": ""
+ },
+ {
+   "{": "              {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "Middle Tennessee"
+ },
+ {
+   "{": "state",
+   "FIELD2": "Tennessee"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "MTSU"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"WKU\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {},"
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "70"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#0066CC"
+ },
+ {
+   "{": "              },",
+   "FIELD2": ""
+ },
+ {
+   "{": "              {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "Old Dominion"
+ },
+ {
+   "{": "state",
+   "FIELD2": "Virginia"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "ODU"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"LIB\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {},"
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "70"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#7C878E"
+ },
+ {
+   "{": "              },",
+   "FIELD2": ""
+ },
+ {
+   "{": "              {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "Texas State"
+ },
+ {
+   "{": "state",
+   "FIELD2": "Texas"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "TSTU"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"LTEC\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {},"
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "65"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#501214"
+ },
+ {
+   "{": "              },",
+   "FIELD2": ""
+ },
+ {
+   "{": "              {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "Western Kentucky"
+ },
+ {
+   "{": "state",
+   "FIELD2": "Kentucky"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "WKU"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"MTSU\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {},"
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "70"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#C60C30"
+ },
+ {
+   "{": "              }",
+   "FIELD2": ""
+ },
+ {
+   "{": "        ]",
+   "FIELD2": ""
+ },
+ {
+   "{": "    },",
+   "FIELD2": ""
+ },
+ {
+   "{": "    {",
+   "FIELD2": ""
+ },
+ {
+   "{": "confFullName",
+   "FIELD2": "Mountain West"
+ },
+ {
+   "{": "confPrestige",
+   "FIELD2": "70"
+ },
+ {
+   "{": "confName",
+   "FIELD2": "MWC"
+ },
+ {
+   "{": "confTeams",
+   "FIELD2": " ["
+ },
+ {
+   "{": "            {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "Boise State"
+ },
+ {
+   "{": "state",
+   "FIELD2": "Idaho"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "BSU"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"HAWI\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {},"
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "70"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#D64309"
+ },
+ {
+   "{": "              },",
+   "FIELD2": ""
+ },
+ {
+   "{": "              {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "Colorado State"
+ },
+ {
+   "{": "state",
+   "FIELD2": "Colorado"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "CSU"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"WYO\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {},"
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "70"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#1E4D2B"
+ },
+ {
+   "{": "              },",
+   "FIELD2": ""
+ },
+ {
+   "{": "              {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "Fresno State"
+ },
+ {
+   "{": "state",
+   "FIELD2": "California"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "FRES"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"SJSU\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {},"
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "70"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#DB0032"
+ },
+ {
+   "{": "              },",
+   "FIELD2": ""
+ },
+ {
+   "{": "              {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "Hawaii"
+ },
+ {
+   "{": "state",
+   "FIELD2": "Hawaii"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "HAWI"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"BSU\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {},"
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "65"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#024731"
+ },
+ {
+   "{": "              },",
+   "FIELD2": ""
+ },
+ {
+   "{": "              {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "Nevada"
+ },
+ {
+   "{": "state",
+   "FIELD2": "Nevada"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "NEV"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"USU\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {},"
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "65"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#003366"
+ },
+ {
+   "{": "              },",
+   "FIELD2": ""
+ },
+ {
+   "{": "              {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "San Diego State"
+ },
+ {
+   "{": "state",
+   "FIELD2": "California"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "SDSU"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"UNLV\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {},"
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "75"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#A6192E"
+ },
+ {
+   "{": "              },",
+   "FIELD2": ""
+ },
+ {
+   "{": "              {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "San Jose State"
+ },
+ {
+   "{": "state",
+   "FIELD2": "California"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "SJSU"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"FRES\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {},"
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "70"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#0055A2"
+ },
+ {
+   "{": "              },",
+   "FIELD2": ""
+ },
+ {
+   "{": "              {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "UN Las Vegas"
+ },
+ {
+   "{": "state",
+   "FIELD2": "Nevada"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "UNLV"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"SDSU\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {},"
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "70"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#CF0A2C"
+ },
+ {
+   "{": "              },",
+   "FIELD2": ""
+ },
+ {
+   "{": "              {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "Utah State"
+ },
+ {
+   "{": "state",
+   "FIELD2": "Utah"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "USU"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"NEV\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {},"
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "65"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#00263A"
+ },
+ {
+   "{": "              },",
+   "FIELD2": ""
+ },
+ {
+   "{": "              {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "Wyoming"
+ },
+ {
+   "{": "state",
+   "FIELD2": "Wyoming"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "WYO"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"CSU\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {},"
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "75"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#492F24"
+ },
+ {
+   "{": "              }",
+   "FIELD2": ""
+ },
+ {
+   "{": "        ]",
+   "FIELD2": ""
+ },
+ {
+   "{": "    },",
+   "FIELD2": ""
+ },
+ {
+   "{": "    {",
+   "FIELD2": ""
+ },
+ {
+   "{": "confFullName",
+   "FIELD2": "American Athletic"
+ },
+ {
+   "{": "confPrestige",
+   "FIELD2": "75"
+ },
+ {
+   "{": "confName",
+   "FIELD2": "AAC"
+ },
+ {
+   "{": "confTeams",
+   "FIELD2": " ["
+ },
+ {
+   "{": "            {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "East Carolina"
+ },
+ {
+   "{": "state",
+   "FIELD2": "North Carolina"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "ECU"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"UAB\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {},"
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "65"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#592A8A"
+ },
+ {
+   "{": "              },",
+   "FIELD2": ""
+ },
+ {
+   "{": "              {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "Memphis"
+ },
+ {
+   "{": "state",
+   "FIELD2": "Tennessee"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "UMEM"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"UTUL\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {},"
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "75"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#003087"
+ },
+ {
+   "{": "              },",
+   "FIELD2": ""
+ },
+ {
+   "{": "              {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "North Texas"
+ },
+ {
+   "{": "state",
+   "FIELD2": "Texas"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "UNT"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"SMU\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {},"
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "65"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#00853E"
+ },
+ {
+   "{": "              },",
+   "FIELD2": ""
+ },
+ {
+   "{": "              {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "Rice"
+ },
+ {
+   "{": "state",
+   "FIELD2": "Texas"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "RICE"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"UTSA\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {},"
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "70"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#00205B"
+ },
+ {
+   "{": "              },",
+   "FIELD2": ""
+ },
+ {
+   "{": "              {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "Southern Methodist"
+ },
+ {
+   "{": "state",
+   "FIELD2": "Texas"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "SMU"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"UNT\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {},"
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "75"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#0033A0"
+ },
+ {
+   "{": "              },",
+   "FIELD2": ""
+ },
+ {
+   "{": "              {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "South Florida"
+ },
+ {
+   "{": "state",
+   "FIELD2": "Florida"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "USF"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"TUL\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {},"
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "70"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#006747"
+ },
+ {
+   "{": "              },",
+   "FIELD2": ""
+ },
+ {
+   "{": "              {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "Tulane"
+ },
+ {
+   "{": "state",
+   "FIELD2": "Louisiana"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "TUL"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"USF\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {},"
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "70"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#006747"
+ },
+ {
+   "{": "              },",
+   "FIELD2": ""
+ },
+ {
+   "{": "              {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "Tulsa"
+ },
+ {
+   "{": "state",
+   "FIELD2": "Oklahoma"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "UTUL"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"UMEM\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {},"
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "65"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#002D72"
+ },
+ {
+   "{": "              },",
+   "FIELD2": ""
+ },
+ {
+   "{": "              {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "UA Birmingham"
+ },
+ {
+   "{": "state",
+   "FIELD2": "Alabama"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "UAB"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"ECU\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {},"
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "70"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#006341"
+ },
+ {
+   "{": "              },",
+   "FIELD2": ""
+ },
+ {
+   "{": "              {",
+   "FIELD2": ""
+ },
+ {
+   "{": "name",
+   "FIELD2": "UT San Antonio"
+ },
+ {
+   "{": "state",
+   "FIELD2": "Texas"
+ },
+ {
+   "{": "abbreviation",
+   "FIELD2": "UTSA"
+ },
+ {
+   "{": "rival",
+   "FIELD2": " [\"RICE\"],"
+ },
+ {
+   "{": "rivalryNames",
+   "FIELD2": " {},"
+ },
+ {
+   "{": "prestige",
+   "FIELD2": "70"
+ },
+ {
+   "{": "hexColor",
+   "FIELD2": "#F15A22"
+ },
+ {
+   "{": "              }",
+   "FIELD2": ""
+ },
+ {
+   "{": "        ]",
+   "FIELD2": ""
+ },
+ {
+   "{": "    }",
+   "FIELD2": ""
+ },
+ {
+   "{": "  ],",
+   "FIELD2": ""
+ },
+ {
+   "{": "bowlGames",
+   "FIELD2": " ["
+ },
+ {
+   "{": "Rose Bowl",
+   "FIELD2": ""
+ },
+ {
+   "{": "Peach Bowl",
+   "FIELD2": ""
+ },
+ {
+   "{": "Sugar Bowl",
+   "FIELD2": ""
+ },
+ {
+   "{": "Cotton Bowl",
+   "FIELD2": ""
+ },
+ {
+   "{": "Orange Bowl",
+   "FIELD2": ""
+ },
+ {
+   "{": "Fiesta Bowl",
+   "FIELD2": ""
+ },
+ {
+   "{": "Sun Bowl",
+   "FIELD2": ""
+ },
+ {
+   "{": "Gator Bowl",
+   "FIELD2": ""
+ },
+ {
+   "{": "Citrus Bowl",
+   "FIELD2": ""
+ },
+ {
+   "{": "Liberty Bowl",
+   "FIELD2": ""
+ },
+ {
+   "{": "Independence Bowl",
+   "FIELD2": ""
+ },
+ {
+   "{": "Holiday Bowl",
+   "FIELD2": ""
+ },
+ {
+   "{": "Tampa Bay Bowl",
+   "FIELD2": ""
+ },
+ {
+   "{": "Gauranteed Rate Bowl",
+   "FIELD2": ""
+ },
+ {
+   "{": "Cheez-It Bowl",
+   "FIELD2": ""
+ },
+ {
+   "{": "Las Vegas Bowl",
+   "FIELD2": ""
+ },
+ {
+   "{": "Alamo Bowl",
+   "FIELD2": ""
+ },
+ {
+   "{": "Idaho Potato Bowl",
+   "FIELD2": ""
+ },
+ {
+   "{": "Music City Bowl",
+   "FIELD2": ""
+ },
+ {
+   "{": "Lending Tree Bowl",
+   "FIELD2": ""
+ },
+ {
+   "{": "New Orleans Bowl",
+   "FIELD2": ""
+ },
+ {
+   "{": "San Fransisco Bowl",
+   "FIELD2": ""
+ },
+ {
+   "{": "Hawaii Bowl",
+   "FIELD2": ""
+ },
+ {
+   "{": "Duke's Mayo Bowl",
+   "FIELD2": ""
+ },
+ {
+   "{": "Armed Forces Bowl",
+   "FIELD2": ""
+ },
+ {
+   "{": "Texas Bowl",
+   "FIELD2": ""
+ },
+ {
+   "{": "Birmingham Bowl",
+   "FIELD2": ""
+ },
+ {
+   "{": "New Mexico Bowl",
+   "FIELD2": ""
+ },
+ {
+   "{": "Military Bowl",
+   "FIELD2": ""
+ },
+ {
+   "{": "Gasparilla Bowl",
+   "FIELD2": ""
+ },
+ {
+   "{": "Pinstripe Bowl",
+   "FIELD2": ""
+ },
+ {
+   "{": "First Responder Bowl",
+   "FIELD2": ""
+ },
+ {
+   "{": "Bahamas Bowl",
+   "FIELD2": ""
+ },
+ {
+   "{": "Boca Raton Bowl",
+   "FIELD2": ""
+ },
+ {
+   "{": "Camellia Bowl",
+   "FIELD2": ""
+ },
+ {
+   "{": "Quick Lane Bowl",
+   "FIELD2": ""
+ },
+ {
+   "{": "TEST BOWL",
+   "FIELD2": ""
+ },
+ {
+   "{": "  ]",
+   "FIELD2": ""
+ },
+ {
+   "{": "}",
+   "FIELD2": ""
+ }
+]
