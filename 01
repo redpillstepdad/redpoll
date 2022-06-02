@@ -1355,7 +1355,7 @@
         },
         {
           "abbreviation" : "CONN",
-          "prestige" : "57",
+          "prestige" : "45",
           "hexColor" : "#000E2F",
           "rival" : "TEM",
           "headCoach" : {
@@ -1427,7 +1427,7 @@
         },
         {
           "abbreviation" : "SMU",
-          "prestige" : "57",
+          "prestige" : "61",
           "hexColor" : "#354CA1",
           "rival" : "HOU",
           "headCoach" : {
