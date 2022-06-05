@@ -1403,7 +1403,7 @@
         },
         {
           "abbreviation" : "HOU",
-          "prestige" : "57",
+          "prestige" : "65",
           "hexColor" : "#C8102E",
           "rival" : "SMU",
           "headCoach" : {
@@ -2072,7 +2072,7 @@
         },
         {
           "abbreviation" : "FIU",
-          "prestige" : "49",
+          "prestige" : "47",
           "hexColor" : "#081E3F",
           "rival" : "FAU",
           "headCoach" : {
